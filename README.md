@@ -1,6 +1,9 @@
 Lab1.Algorythm
+
 Завдання 6:
+
 #include <iostream>
+
 using namespace std;
 int main() {
     double length, width;
